@@ -2,3 +2,4 @@ uart_com/.vscode
 i2c_LM75A/.devcontainer
 i2c_LM75A/.vscode
 uart_com/.devcontainer
+uart_com/build
